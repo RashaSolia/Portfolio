@@ -69,7 +69,7 @@ export const allProjects = [
     name: "Quiz App",
     category: ["JavaScript"],
     p: "Quiz App is an interactive application that allows users to test their knowledge through engaging quizzes with instant feedback and score tracking.",
-    imgPath: "../../../public/images/Screenshot 2025-09-23 191431.png",
+    imgPath: "../../../public/images/Screenshot 2025-09-24 211648.png",
     linkGithub: "https://github.com/RashaSolia/Quiz_App",
   },
  
